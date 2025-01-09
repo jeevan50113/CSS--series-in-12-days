@@ -1,0 +1,20 @@
+body
+{
+    font-size: 22px;
+}
+p
+{
+    color:purple
+}
+.gray
+{
+    color: gray;
+}
+h2,h1
+{
+    color: sandybrown;
+}
+p span
+{
+    color: green;
+}

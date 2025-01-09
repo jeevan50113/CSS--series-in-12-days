@@ -1,0 +1,15 @@
+body{
+    font-size: 22px;
+}
+h1,h2
+{
+    color:sandybrown
+}
+p
+{
+    color: purple;
+}
+#paragraph1,#paragraph2
+{
+    color: red;
+}
